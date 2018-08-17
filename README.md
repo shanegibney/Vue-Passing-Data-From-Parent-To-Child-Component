@@ -1,3 +1,7 @@
+[gh-pages](https://shanegibney.github.io/Vue-Passing-Data-From-Parent-To-Child-Component/#/)
+
+[My blog post on this topic](http://www.shanegibney.com/shanegibney/vue-passing-data-from-parent-to-child-component/)
+
 # passing-data-parent-to-child
 
 > Vue.js passing data from parent to child component

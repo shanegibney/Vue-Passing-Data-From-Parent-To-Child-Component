@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <h1>I am the parent component</h1>
+    <h2>Passing data from parent to child component.</h2>
     <Child :people="people"/>
   </div>
 </template>

@@ -4,6 +4,9 @@
     <div v-for="(individual, index) in people" :key="index">
       <span>{{ index+1 }}.   {{ individual.name }}</span>
     </div>
+    <div>
+      <h1> <a href="https://github.com/shanegibney/Vue-Passing-Data-From-Parent-To-Child-Component">Return to repo</a> </h1>
+    </div>
   </div>
 </template>
 
